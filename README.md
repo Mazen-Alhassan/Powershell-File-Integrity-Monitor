@@ -24,6 +24,13 @@ A lightweight PowerShell-based File Integrity Monitoring (FIM) tool that creates
 
 ## File Integrity Monitor (FIM)
 
+### Screenshots
+
+| | |
+| --- | --- |
+| ![Screenshot 1](sc1.png) | ![Screenshot 2](sc2.png) |
+| ![Screenshot 3](sc3.png) | ![Screenshot 4](sc4.png) |
+
 ```mermaid
 flowchart TD
     A([Start]) --> B{Choose operation}
